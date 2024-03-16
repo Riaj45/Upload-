@@ -1,0 +1,13 @@
+#imageContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imageItem {
+    margin: 10px;
+}
+
+.imageItem img {
+    max-width: 200px;
+    max-height: 200px;
+}
